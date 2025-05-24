@@ -66,12 +66,6 @@ Follow these steps to get StoryLab up and running on your local machine.
         ```
 
 5.  **Install dependencies:**
-    Create a `requirements.txt` file in the `storylab` directory with the following content:
-    ```
-    streamlit
-    cerebras-cloud-sdk
-    ```
-    Then install:
     ```bash
     pip install -r requirements.txt
     ```
